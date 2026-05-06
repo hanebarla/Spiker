@@ -91,3 +91,6 @@ bdist*
 
 # Python venv
 .venv/
+
+# Vivado/Vitis source commands
+activate-env.sh
